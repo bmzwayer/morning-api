@@ -1,0 +1,19 @@
+{
+  "name": "morning-api",
+  "version": "1.0.0",
+  "description": "this is a developer blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmzwayer/morning-api.git"
+  },
+  "author": "Brooke Zwayer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmzwayer/morning-api/issues"
+  },
+  "homepage": "https://github.com/bmzwayer/morning-api#readme"
+}
