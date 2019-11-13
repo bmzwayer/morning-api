@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bmzwayer/morning-api/issues"
   },
-  "homepage": "https://github.com/bmzwayer/morning-api#readme"
+  "homepage": "https://github.com/bmzwayer/morning-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
